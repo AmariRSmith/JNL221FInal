@@ -1,0 +1,85 @@
+body {
+  font-family: arial; sans-serif;
+  max-width: 1200px;
+  margin: auto;
+  padding: auto;
+  font-weight: normal;
+}
+.title {
+  font-size: 45px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  font-style: italic;
+  ;
+}
+
+.author {
+  font-size: 18px;
+  text-align: center;
+}
+
+h1 {
+  font-style: ;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.other-image {
+  max-width: 600px;
+  display: block;
+  margin: 30px auto 5px auto;
+}
+
+.other-caption {
+  font-size: 14px;
+  line-height: 14px;
+  max-width: 600px;
+  margin: 5px auto;
+}
+
+.graph1 {
+  font-size: 29px;
+  line-height: 1.6;
+}
+.graph2 {
+  font-size: 29px;
+  line-height: 1.6;
+}
+
+.graph3 {
+  font-size: 29px;
+  line-height: 1.6;
+}
+.graph4 {
+  font-size: 29px;
+  line-height: 1.6;
+}
+.graph5 {
+  font-size: 29px;
+  line-height: 1.6;
+}
+<style>
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/051/266/269/small_2x/a-basketball-on-a-table-photo.jpg);
+}
+
